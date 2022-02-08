@@ -1,1 +1,0 @@
-# GB.Home.work.4.Lessons.Python.py
